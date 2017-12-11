@@ -1,5 +1,5 @@
 ## Setup 
-`git clone https://github.com/Tor020/GulpSassVueBP`
+`git clone https://github.com/Tor020/VueBulmaSassBP`
 
 type `npm install` and then `gulp` in directory
 
